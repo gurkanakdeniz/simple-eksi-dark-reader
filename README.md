@@ -1,6 +1,6 @@
 # Simple Eksi Dark Reader
 
-Simple Eksi Dark Reader
+Unofficial Simple Eksi Dark Reader
  
 ## Screenshots
 
