@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Eksi Dark",
+  "version": "1.0",
+
+  "description": "eksi dark",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.eksisozluk.com/*"],
+      "js": ["core.js"]
+    }
+  ]
+}
